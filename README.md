@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Darpit Choudhary
-- 👀 I’m interested in working with pyhton
-- 🌱 I’m currently learning various python modules like Tkinter and pygame
-- 💞️ I’m looking to collaborate on, for now nothing
-- 📫 How to reach me 
+- 👀 Recently I've developed interest in GUI making using Tkinter
+- 🌱 I’m currently learning various python modules like Tkinter and also a little bit about CNN
+- 💞️ I’m looking to collaborate on...
+- 📫 How to reach me...
 
 <!---
 darpit-choudhary/darpit-choudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
