@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darpit Choudhary
 - 👀 Recently I've developed interest in GUI making using Tkinter
-- 🌱 I’m currently learning various python modules like Tkinter and also a little bit about CNN
+- 🌱 I’m currently learning various python modules like Tkinter and Pygame, and also a little bit about CNN
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me...
 
